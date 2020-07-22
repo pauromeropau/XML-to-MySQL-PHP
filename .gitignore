@@ -1,1 +1,5 @@
-.DS_Store
+._.DS_Store
+._.connection.php
+._.data.xml
+._.index.php
+._.save.php
