@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<contacts>
+    <contact>
+        <firstname>Nicholas</firstname>
+        <lastname>Patterson</lastname>
+        <address>9216 W Campbell Ave</address>
+        <email>nicholas.patterson@example.com</email>
+        <phone>(711)-541-8079</phone>
+    </contact>
+</contacts>
